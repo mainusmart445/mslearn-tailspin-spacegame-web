@@ -1,3 +1,4 @@
+#Added a WhiteSourceBolt extension to scan vulnerabilities 
 trigger:
 - '*'
 
